@@ -1,6 +1,6 @@
-# php-project-structure
+# php-docker
 
-A vanilla php blank project
+A vanilla php blank project that run with docker
 
 ## Project Structure
 
